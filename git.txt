@@ -13,13 +13,12 @@
 
 ssh-keygen -t rsa -C "18806812678@139.com"
 
-<<<<<<< HEAD
+
 7.dev_zheng 03296.28
 
 8.zheng
-=======
+
 6.dev_he 第5次操作
 
 7.dev_he 6此操作
 
->>>>>>> 632465820ad228c0aaf743608509f294ec822195
