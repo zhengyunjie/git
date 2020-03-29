@@ -7,7 +7,13 @@
 
 4.zheng第四次操作
 
+
 5.dev_zhjeng 
 
 
 ssh-keygen -t rsa -C "18806812678@139.com"
+
+6.dev_he 第5次操作
+
+7.dev_he 6此操作
+
